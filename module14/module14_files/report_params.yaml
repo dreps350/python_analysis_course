@@ -1,0 +1,15 @@
+metrika counter: 21075004
+
+reports:
+    dau:
+        dimensions: ym:s:date
+        metrics: ym:s:visits,ym:s:users,ym:s:pageviews,ym:s:bounceRate
+        sort: ym:s:date
+
+        days_ago: 14
+
+        spreadsheet_id: 1XlUS0O1TILVXPfMPrWt4q36_32ofxAGyv-8aw9AvvGk
+        range_name:
+            list: daily_metrics
+            start: A
+            end: E

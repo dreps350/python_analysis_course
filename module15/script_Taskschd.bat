@@ -1,0 +1,1 @@
+!jupyter nbconvert --execute report.ipynb
